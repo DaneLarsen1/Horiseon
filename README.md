@@ -4,4 +4,8 @@ Refactoring and updating code to debug.
 Refactoring marketing webpage to semantic html. 
 
 ## Screenshot
-![deployed webpage](./assets/images/_Users_danelarsen_Desktop_bootcamp_Horiseon_index.html.png)
+![Deployed webpage](/assets/images/_Users_danelarsen_Desktop_bootcamp_Horiseon_index.html.png)
+
+
+## Link to Deployed Website
+[Deployed webpage](https://danelarsen1.github.io/Horiseon/)
